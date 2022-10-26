@@ -1,0 +1,12 @@
+/Users/lucianorojas/Projects/test/test/bin/Release/net6.0/test.deps.json
+/Users/lucianorojas/Projects/test/test/bin/Release/net6.0/test.dll
+/Users/lucianorojas/Projects/test/test/bin/Release/net6.0/test.pdb
+/Users/lucianorojas/Projects/test/test/obj/Release/net6.0/Clases.csproj.AssemblyReference.cache
+/Users/lucianorojas/Projects/test/test/obj/Release/net6.0/Clases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucianorojas/Projects/test/test/obj/Release/net6.0/Clases.AssemblyInfoInputs.cache
+/Users/lucianorojas/Projects/test/test/obj/Release/net6.0/Clases.AssemblyInfo.cs
+/Users/lucianorojas/Projects/test/test/obj/Release/net6.0/Clases.csproj.CoreCompileInputs.cache
+/Users/lucianorojas/Projects/test/test/obj/Release/net6.0/test.dll
+/Users/lucianorojas/Projects/test/test/obj/Release/net6.0/refint/test.dll
+/Users/lucianorojas/Projects/test/test/obj/Release/net6.0/test.pdb
+/Users/lucianorojas/Projects/test/test/obj/Release/net6.0/ref/test.dll
