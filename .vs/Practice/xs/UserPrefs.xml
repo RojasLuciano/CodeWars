@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{EA874599-F3D0-488C-85D0-3DA61AD2A9DB}|Default">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{EA874599-F3D0-488C-85D0-3DA61AD2A9DB}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="test1/UnitTest1.cs">
     <Files>
